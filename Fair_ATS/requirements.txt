@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlmodel
+pydantic[email]
+python-multipart
+pdfplumber
+python-docx
+docx2txt
+sentence-transformers
+streamlit
+requests
+plotly
